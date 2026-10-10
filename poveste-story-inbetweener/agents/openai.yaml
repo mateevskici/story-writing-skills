@@ -1,0 +1,7 @@
+interface:
+  display_name: "Poveste Story Inbetweener"
+  short_description: "Connect story keyframes with purpose"
+  default_prompt: "Use $poveste-story-inbetweener to connect these Romanian bedtime story keyframes with causal events and safe transitions."
+
+policy:
+  allow_implicit_invocation: true

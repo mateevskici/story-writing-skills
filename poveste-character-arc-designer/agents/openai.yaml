@@ -1,0 +1,7 @@
+interface:
+  display_name: "Poveste Character Arc Designer"
+  short_description: "Design safe, believable story character arcs"
+  default_prompt: "Use $poveste-character-arc-designer to design the protagonist and supporting character arcs for this Romanian bedtime story."
+
+policy:
+  allow_implicit_invocation: true

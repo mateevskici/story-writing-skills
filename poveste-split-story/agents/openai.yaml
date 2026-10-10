@@ -1,0 +1,7 @@
+interface:
+  display_name: "Poveste Split Story"
+  short_description: "Split long bedtime stories safely"
+  default_prompt: "Use $poveste-split-story to decide whether this Romanian bedtime story should be split and prepare its continuity plan."
+
+policy:
+  allow_implicit_invocation: true

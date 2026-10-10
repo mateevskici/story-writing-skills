@@ -1,0 +1,7 @@
+interface:
+  display_name: "Poveste Story Architect"
+  short_description: "Plan focused Romanian bedtime stories"
+  default_prompt: "Use $poveste-story-architect to turn this rough idea into a focused Romanian bedtime story foundation."
+
+policy:
+  allow_implicit_invocation: true
